@@ -1,0 +1,4 @@
+ana_otonomi_node:
+  ros__parameters:
+    kp_degeri: 2.0
+    hata_toleransi: 0.05
